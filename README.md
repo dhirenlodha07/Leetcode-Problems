@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -43,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
