@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
