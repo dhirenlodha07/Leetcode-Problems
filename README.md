@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0382-linked-list-random-node](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 | [1025-divisor-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1025-divisor-game) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
