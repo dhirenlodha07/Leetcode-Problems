@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0896-monotonic-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0896-monotonic-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
