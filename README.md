@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0896-monotonic-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0896-monotonic-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
