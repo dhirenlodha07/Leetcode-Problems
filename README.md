@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [1025-divisor-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1025-divisor-game) |
 ## Depth-First Search
 |  |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
