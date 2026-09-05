@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0382-linked-list-random-node](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 | [1025-divisor-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1025-divisor-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
