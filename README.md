@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3536-maximum-product-of-two-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3536-maximum-product-of-two-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 ## Number Theory
