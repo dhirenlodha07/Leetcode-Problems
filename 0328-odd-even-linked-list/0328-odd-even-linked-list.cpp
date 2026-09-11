@@ -10,32 +10,23 @@
  */
 class Solution {
 public:
-    ListNode* oddEvenList(ListNode* head) {
-    vector<int>store;
+    ListNode* oddEvenList(ListNode* head) { 
+    //O(1) SC soln
     if(head==NULL) {
         return head;
     }
-    ListNode* temp = head;
-    while(temp!=NULL) {
-        store.push_back(temp->val);
-        if(temp->next==NULL)break;
-        temp = temp->next->next;
-    }
-    temp = head->next;
-    while(temp!=NULL ) {
-        store.push_back(temp->val);
-        if(temp->next==NULL)break;
+    ListNode* odd  = head;
+    ListNode* even = head->next;
+    ListNode* evenHead = even;
+    
+    while(even!=NULL && even->next!=NULL) {
+        odd->next = odd->next->next;
+        even->next = even->next->next;
 
-        temp = temp->next->next;
+        odd = odd->next;
+        even = even->next;
     }
-
-    ListNode* final = head;
-    int i = 0;
-    while(final!=NULL){
-     final->val = store[i];
-     i++;
-     final = final->next;
-    }
+    odd->next = evenHead;
     return head;
     }
 };
