@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0817-linked-list-components](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0896-monotonic-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
