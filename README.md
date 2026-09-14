@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0382-linked-list-random-node](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
+| [0836-rectangle-overlap](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
