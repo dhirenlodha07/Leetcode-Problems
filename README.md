@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0817-linked-list-components) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
