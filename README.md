@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -272,11 +274,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1833-maximum-ice-cream-bars](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Simulation
 |  |
 | ------- |
