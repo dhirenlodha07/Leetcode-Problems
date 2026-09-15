@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
