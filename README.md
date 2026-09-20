@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting Sort
