@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
@@ -334,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
