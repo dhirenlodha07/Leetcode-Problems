@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0046-permutations) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0148-sort-list) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
