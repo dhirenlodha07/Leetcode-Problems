@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
