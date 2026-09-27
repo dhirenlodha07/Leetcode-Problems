@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0382-linked-list-random-node](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -393,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
