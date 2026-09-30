@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0817-linked-list-components](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0817-linked-list-components) |
+| [1207-unique-number-of-occurrences](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
