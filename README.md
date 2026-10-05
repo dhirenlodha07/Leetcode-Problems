@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1688-count-of-matches-in-tournament](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
+| [1688-count-of-matches-in-tournament](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
