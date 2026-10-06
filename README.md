@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0382-linked-list-random-node](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
+| [0633-sum-of-square-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1025-divisor-game) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 ## Linked List
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
