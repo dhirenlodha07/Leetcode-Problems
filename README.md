@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0881-boats-to-save-people](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Timsort
 |  |
 | ------- |
