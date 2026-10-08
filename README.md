@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Timsort
 |  |
 | ------- |
