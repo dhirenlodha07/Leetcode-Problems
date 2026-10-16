@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1688-count-of-matches-in-tournament](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2109-adding-spaces-to-a-string) |
