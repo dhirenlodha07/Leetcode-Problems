@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Brainteaser
 |  |
 | ------- |
