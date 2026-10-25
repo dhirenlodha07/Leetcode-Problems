@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2563-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
