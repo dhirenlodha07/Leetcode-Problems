@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1688-count-of-matches-in-tournament](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
