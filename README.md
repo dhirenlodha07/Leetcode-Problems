@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2579-count-total-number-of-colored-cells](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2579-count-total-number-of-colored-cells) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
