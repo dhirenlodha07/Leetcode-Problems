@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
