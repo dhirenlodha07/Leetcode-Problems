@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2109-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Minimax
