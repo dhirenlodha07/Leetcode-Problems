@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0148-sort-list) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
