@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhirenlodha07/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
